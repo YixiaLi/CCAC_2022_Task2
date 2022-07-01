@@ -23,7 +23,11 @@
 
 ### **报名方式**
 
-https://docs.qq.com/form/page/DYnNmWHR4YlRtQ3Fz
+~~https://docs.qq.com/form/page/DYnNmWHR4YlRtQ3Fz~~
+
+原报名方式已失效，请按照以下格式将报名信息发送至邮箱 yixia.li@connect.polyu.hk.
+
+![CCAC_apply_form](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9d434622-97fa-4c14-b85c-98124879b2c4/CCAC_apply_form.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220701%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220701T062300Z&X-Amz-Expires=86400&X-Amz-Signature=7194212e1db42f0b7754de0ea2786c7798820766eb77f44c485e4ea0f7c396bc&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22CCAC_apply_form.png%22&x-id=GetObject)
 
 ### FAQ
 
