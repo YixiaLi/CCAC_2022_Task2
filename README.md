@@ -2,9 +2,11 @@
 
 # ！！Update！！提交入口已开放，请尽快提交
 
-[提交入口](https://workspace.jianguoyun.com/inbox/collect/1e540c395eca48d08b7c43d4aed0ad34/submitv2)
+[预测文件提交入口](https://workspace.jianguoyun.com/inbox/collect/1e540c395eca48d08b7c43d4aed0ad34/submitv2)
 
-## **提交格式**
+[报告文件提交入口](https://workspace.jianguoyun.com/inbox/collect/71c6649177e6423f842ff5634df0bc9c/submitv2)
+
+## **预测文件提交格式**
 
 - 提交测试结果需以 **.txt** 文件保存，其中每一行代表候选情感，第一个数字代表行 ID，如
 
@@ -19,12 +21,19 @@
 ```
 - 预测个数 $<=3$ 个
 
-## 命名方式
+## **报告文件提交格式**
+- 提交测试结果需以 **.pdf** 文件保存
+- 报告格式参考 [ACL Template](https://www.overleaf.com/latex/templates/template-for-2-columns-acl-proceedings-style/bdxxrbqzsmpv)
 
-以 **.txt** 文件保存，文件名为 **机构名缩写+队伍名称**，如
+## **文件命名方式**
+
+- 预测文件以 **.txt** 文件保存，文件名为 **机构名缩写+队伍名称**，如
 ```
 PolyU+TeamName.txt
 ```
+
+- 报告文件以 **pdf** 文件保存，文件名为 **机构名缩写+队伍名称**
+
 ---
 
 ## 面向微博话题的群体情感识别
