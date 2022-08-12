@@ -1,6 +1,42 @@
 # CCAC 2022 Task 2
 
-# Update：评测结果发布
+# Update：会议信息
+
+【会议时间】
+
+2022年8月13日15:00-15:40
+
+【会议安排】
+
+15:00-15:10 评测总结
+15:10-15:20 第一名技术分享
+15:20-15:30 第二名技术分享
+15:30-15:40 第三名技术分享
+15:40-15:50 颁奖合影
+
+【线上参会方式】
+
+CCAC 2022 评测二：面向微博话题的群体情感识别
+Meeting Time: 2022/08/13 15:00-16:00 (GMT+08:00) China Standard Time - Hong Kong
+
+Click the link to join the meeting or to add it to your meeting list:
+https://meeting.tencent.com/dm/fATt8MFjMWOL
+
+#TencentMeeting：639-398-335
+
+【线下参会方式】
+
+苏州吴宫泛太平洋酒店 二楼 吴宫6&7会议室
+中国江苏省苏州市姑苏区新市路259号 邮编：215007
+电话：(86 512)65103388
+传真：(86512)65100888
+酒店网站请登录 panpacific.com
+
+更多关于线下交通路线、防疫政策等相关信息，可查询以下手册与官方网站
+- http://www.ccac2022.cn/
+- http://www.ccac2022.cn/2022会议手册(8).pdf
+
+# 评测结果
 
 | 队伍名称       | macro_f1   | Rank  |
 |----------------|------------|-------|
